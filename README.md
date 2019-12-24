@@ -2,7 +2,7 @@
 
 ### The error
 
-  When a test file path includes smone non-ascii characters,
+  When a test file path includes some non-ascii characters,
   rake test task ```Rake::TestTask``` fails with a message
 
   *File does not exist: [test_target_file_name]*
