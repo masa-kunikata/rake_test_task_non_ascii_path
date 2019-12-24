@@ -1,8 +1,8 @@
-# Rake::TestTask raises an error when the test path includes non-ascii charactors
+# Rake::TestTask raises an error when the test path includes non-ascii characters
 
 ### The error
 
-  When a test file path includes smone non-ascii charactors,
+  When a test file path includes smone non-ascii characters,
   rake test task ```Rake::TestTask``` fails with a message
 
   *File does not exist: [test_target_file_name]*
